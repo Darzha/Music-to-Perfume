@@ -1,12 +1,12 @@
 # Music to Perfume
 
-A web app that analyzes your Spotify listening history and uses AI to translate your music vibe into perfumes.
+A web app that analyzes your Spotify listening history and turns it into perfume recommendations with unnervingly specific emotional accuracy.
 
 ---
 
 ## What It Does
 
-Connect your Spotify account and the app pulls your top tracks, analyzes the mood, energy, and personality of your listening history, then uses Claude AI to suggest 5 perfumes that match your vibe — with a score, description, and atmospheric mood image for each.
+Connect your Spotify account. The app pulls your top tracks, extracts emotional patterns and aesthetic signals from your listening history, and uses Claude to suggest 5 perfumes that match your vibe, each with a score, description, and atmospheric mood image.
 
 The tone is esoteric and specific. Not "you like pop so here's a floral." More like: *"you'd wear this at 2am in a city you don't live in anymore."*
 
@@ -14,7 +14,11 @@ The tone is esoteric and specific. Not "you like pop so here's a floral." More l
 
 ## Demo
 
-> App is currently in Spotify development mode. To try it, contact me to be added as a test user.
+**Results page:**
+![Results](demo.png)
+
+**Walkthrough video (up to loading screen):**
+[Watch on YouTube](https://youtu.be/pDFNOlWUXqo)
 
 ---
 
@@ -32,8 +36,8 @@ The tone is esoteric and specific. Not "you like pop so here's a floral." More l
 
 - Spotify OAuth login
 - Pulls your top 20 tracks and artist genres
-- AI analyzes music personality and mood
-- Returns 5 perfume recommendations with scores out of 10
+- AI analyzes listening patterns to infer mood and aesthetic profile
+- Returns 5 perfume recommendations scored and described with a distinct mood and narrative
 - Click-through detail pages with full-screen mood images
 - Animated loading screen with progress steps
 - Editorial UI inspired by fashion and fragrance magazines
@@ -84,8 +88,8 @@ python app.py
 
 ## Note on Spotify Access
 
-Spotify's API is currently in development mode, which limits access to manually approved users. If you want to try the app, reach out and I'll add you.
+Currently in Spotify dev mode. If you want access, open an issue or message me and I'll add you.
 
 ---
 
-*Built as a personal project — a small experiment in cross-domain AI translation.*
+*A small experiment in translating taste across senses, from sound into scent.*
