@@ -1,6 +1,6 @@
 # Music to Perfume
 
-A web app that analyzes your Spotify listening history and turns it into perfume recommendations with unnervingly specific emotional accuracy.
+A web app that turns your Spotify listening history into perfume recommendations with unnervingly specific emotional accuracy.
 
 ---
 
