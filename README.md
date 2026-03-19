@@ -18,7 +18,7 @@ The tone is esoteric and specific. Not "you like pop so here's a floral." More l
 ![Results](demo.png)
 
 **Walkthrough video (up to loading screen):**
-[Watch on YouTube](https://youtu.be/pDFNOlWUXqo)
+[Watch on YouTube](https://youtu.be/pNUZ-yutxCM)
 
 ---
 
