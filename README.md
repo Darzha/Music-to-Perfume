@@ -15,10 +15,12 @@ The tone is esoteric and specific. Not "you like pop so here's a floral." More l
 ## Demo
 
 **Results page:**
-![Results](demo.png)
+![](demo1.png)
+![](demo2.png)
+![](demo3.png)
 
 **Walkthrough video (up to loading screen):**
-[Watch on YouTube](https://youtu.be/pNUZ-yutxCM)
+[Watch on YouTube](https://youtu.be/AWbI0oevbrE)
 
 ---
 
